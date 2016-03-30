@@ -1,0 +1,28 @@
+name: JasonBiggsStrengthsCOach
+favicon: null
+layout_spectrum: 0.2703461784403771
+typography_spectrum: 0.4886479154229164
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3880974901840091
+  lightness: 0.43393347249366343
+  saturation: 0.8546446159016341
+  rhythmicContrast: 0.08956510853022337
+purpose: []
